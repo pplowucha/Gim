@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab4_GiM-master.Plugins", "lab4_GiM-master.Plugins.csproj", "{3A4A46AB-7E16-340C-5DF2-1563AC4B1C4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab4_GiM-master.Editor.Plugins", "lab4_GiM-master.Editor.Plugins.csproj", "{82065610-08FA-8967-D262-BE9FAE130B96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A4A46AB-7E16-340C-5DF2-1563AC4B1C4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A4A46AB-7E16-340C-5DF2-1563AC4B1C4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A4A46AB-7E16-340C-5DF2-1563AC4B1C4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A4A46AB-7E16-340C-5DF2-1563AC4B1C4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82065610-08FA-8967-D262-BE9FAE130B96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82065610-08FA-8967-D262-BE9FAE130B96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82065610-08FA-8967-D262-BE9FAE130B96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82065610-08FA-8967-D262-BE9FAE130B96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
